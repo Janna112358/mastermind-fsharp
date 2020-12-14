@@ -3,3 +3,8 @@
 Debug/
 bin/
 obj/
+
+# should this be here?
+.ionide/
+.vscode/
+
